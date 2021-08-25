@@ -1,2 +1,2 @@
-# Lifestyle-Java
+# TryMe-Java
 Servlets and JSP
